@@ -9,4 +9,4 @@
 }
 ```
 
-2. To use an analysis pipeline you should download data from your database into `data.csv` and used it as described in `analysis.ipynb` 
+2. To use an analysis pipeline you should download data from your database into `data.csv` and use it as described in `analysis.ipynb` 
